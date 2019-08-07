@@ -21,3 +21,7 @@ point.y
 # Does not allow subscript notation
 # point[0]
 # point[1]
+
+# This class allows assignment!
+point.x = 7
+point.y = 8

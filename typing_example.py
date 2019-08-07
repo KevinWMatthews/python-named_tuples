@@ -18,3 +18,7 @@ point.y
 
 point[0]
 point[1]
+
+# Member assignment is not allowed - tuples are immutable
+# point.x = 7
+# point[0] = 7
