@@ -4,7 +4,7 @@ import collections
 typename = 'Point'              # string
 field_names = ('x', 'y')        # iterable
 # Convention: variable name is the same as the typename
-Point = collections.namedtuple(typename, field_names, verbose=False)
+Point = collections.namedtuple(typename, field_names)
 
 # Instantiate tuple
 Point(0, 1)
