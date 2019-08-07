@@ -1,7 +1,7 @@
-from dataclasses import dataclass
+import dataclasses
 
 # Create class
-@dataclass
+@dataclasses.dataclass
 class Point():
     x: int
     y: int = 0

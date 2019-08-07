@@ -1,7 +1,7 @@
-from typing import NamedTuple
+import typing
 
 # Create tuple type
-class Point(NamedTuple):
+class Point(typing.NamedTuple):
     x: int
     y: int = 0
 
