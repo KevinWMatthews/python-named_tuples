@@ -14,13 +14,13 @@ Available in Python 3 and up.
 
 ## `typing`
 
-Named tuples can be created with typing using the [`typing` module](https://docs.python.org/3/library/typing.html#typing.NamedTuple).
+Named tuples can be created with typing using Python's [`typing` module](https://docs.python.org/3/library/typing.html#typing.NamedTuple).
 
 Available in Python 3.6 and up.
 
 
 ## `dataclass`
 
-A typed class can be created using the [`dataclass` module](https://docs.python.org/3/library/dataclasses.html#module-dataclasses).
+A typed class can be created using Python's [`dataclass` module](https://docs.python.org/3/library/dataclasses.html#module-dataclasses).
 
 Available in Python 3.7 and up.
