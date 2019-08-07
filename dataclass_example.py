@@ -4,7 +4,7 @@ from dataclasses import dataclass
 @dataclass
 class Point():
     x: int
-    y: int = 1
+    y: int = 0
 
 # Instantiate
 Point(0, 1)
