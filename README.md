@@ -1,6 +1,6 @@
 # Named Tuples
 
-Short syntax examples of named tuples in Python 3.
+Short syntax examples of named tuples in Python 3. Supporting content for [this blog post](https://blog.kevinwmatthews.com/named-tuples-in-python/).
 
 Syntax varies between Python 3.5, 3.6, and 3.7.
 
